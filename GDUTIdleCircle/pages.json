@@ -6,19 +6,7 @@
 				"navigationBarTitleText": "uni-app"
 			}
 		}
-	    ,{
-            "path" : "pages/post/post",
-            "style" : {}
-        }
-        ,{
-            "path" : "pages/message/message",
-            "style" : {}
-        }
-        ,{
-            "path" : "pages/user/user",
-            "style" : {}
-        }
-    ],
+	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
